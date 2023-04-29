@@ -1,4 +1,4 @@
-# Hi there, I'm Norman T. Padovani 👋
+# Hi there, my name is Norman T. Padovani
 
 I'm a IT Professional/Software Engineer with 20+ years of experience in the IT industry and now begginin a career as an entry-level software developer. I'm passionate about AR/VR technologies/aeronautics, aerospace, car aerodynamics to name a few] and always eager to learn and explore new technologies.
 
@@ -22,11 +22,8 @@ I'm a IT Professional/Software Engineer with 20+ years of experience in the IT i
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ntpadovani&show_icons=true&theme=radical)
 
-*You can customize the appearance of your GitHub stats by following the instructions at https://github.com/anuraghazra/github-readme-stats.*
-
 ## Get in touch 📬
 
 - **Email:** [normant_padovani@hotmail.com](mailto:normant_padovani@hotmail.com)
 - **LinkedIn:** [Norman T. Padovani](https://www.linkedin.com/in/norman-t-p-88979553/)
 
-*Feel free to add any other relevant contact information or links to your online presence.*
