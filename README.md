@@ -20,7 +20,7 @@ I'm a IT Professional/Software Engineer with 20+ years of experience in the IT i
 
 ## GitHub Stats 📊
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ntpadovani&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ntpadovani&show_icons=true&theme=dark)
 
 ## Get in touch 📬
 
