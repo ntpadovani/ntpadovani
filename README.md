@@ -1,6 +1,6 @@
 # Hi there, I'm Norman T. Padovani 👋
 
-I'm a [IT Professional/Software Engineer] with 20+ years of experience in the IT industry and now begginin a career as an entry-level software developer. I'm passionate about [AR/VR technologies/aeronautics, aerospace, car aerodynamics to name a few] and always eager to learn and explore new technologies.
+I'm a IT Professional/Software Engineer with 20+ years of experience in the IT industry and now begginin a career as an entry-level software developer. I'm passionate about AR/VR technologies/aeronautics, aerospace, car aerodynamics to name a few] and always eager to learn and explore new technologies.
 
 ## Skills 💻
 
