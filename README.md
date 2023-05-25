@@ -2,6 +2,13 @@
 
 I'm a IT Professional/Software Engineer with 20+ years of experience in the IT industry and now beggining a career as an entry-level software developer. I'm passionate about AR/VR technologies/aeronautics, aerospace, car aerodynamics to name a few] and always eager to learn and explore new technologies.
 
+### Social:
+<a href="https://www.linkedin.com/in/norman-t-p-88979553/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+### [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./resume.pdf)
+
 ## Skills 💻
 <table><tr><td valign="top" width="33%">
   
@@ -61,9 +68,3 @@ I'm a IT Professional/Software Engineer with 20+ years of experience in the IT i
 ### Email: [normant_padovani@hotmail.com](mailto:normant_padovani@hotmail.com)
 </a>
 
-### Social:
-<a href="https://www.linkedin.com/in/norman-t-p-88979553/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-### [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./resume.pdf)
