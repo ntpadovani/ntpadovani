@@ -7,9 +7,11 @@ I'm a IT Professional with 20+ years of experience in the IT industry and now be
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+### Resume
+
 ### [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./resume.pdf)
 
-## Skills 💻
+### Skills 💻
 <table><tr><td valign="top" width="33%">
   
   
@@ -59,11 +61,11 @@ I'm a IT Professional with 20+ years of experience in the IT industry and now be
 </td></tr></table>  
 
 
-## GitHub Stats 📊
+### GitHub Stats 📊
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ntpadovani&show_icons=true&theme=dark)
 
-## Get in touch 📬
+### Get in touch 📬
 
 ### Email: [normant_padovani@hotmail.com](mailto:normant_padovani@hotmail.com)
 </a>
