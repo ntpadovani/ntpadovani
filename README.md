@@ -9,7 +9,9 @@ I'm a IT Professional with 20+ years of experience in the IT industry and now be
 
 ### Resume
 
-### [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./resume.pdf)
+<a href="[https://docs.google.com/document/d/1JApv5H101CgqMXzgE07YhVji-WgGAw-D/edit?usp=sharing](https://drive.google.com/file/d/101p1XhEi-PxhFgCOEu1GCscqQEuo0XzI/view?usp=sharing](https://drive.google.com/file/d/101p1XhEi-PxhFgCOEu1GCscqQEuo0XzI/view)">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume Badge"/>
+  </a>
 
 ### Skills 💻
 <table><tr><td valign="top" width="33%">
