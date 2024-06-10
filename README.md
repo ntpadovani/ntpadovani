@@ -1,6 +1,6 @@
 # <span style="#FF5733">Hi there, my name is Norman T. Padovani</span>
 
-I'm a IT Professional with 20+ years of experience in the IT industry and now beggining a career as an entry-level software developer. I'm passionate about AR/VR technologies/aeronautics, aerospace, car aerodynamics to name a few and always eager to learn and explore new technologies.
+I'm a IT Professional with 26+ years of experience in the IT industry and now beggining a career as an entry-level software developer. I'm passionate about AR/VR technologies/aeronautics, aerospace, car aerodynamics to name a few, and always eager to learn and explore new technologies.
 
 ### Social:
 <a href="https://www.linkedin.com/in/norman-t-p-88979553/" target="_blank">
